@@ -57,8 +57,4 @@ module.exports = {
     watchFiles: ['src/**/*'], // watch all the subdirectories & files in source directory
   },
 
-  optimization: {
-    // added only when there is more than one entrypoint on a single HTML page. W/o this there will be issues
-    runtimeChunk: 'single',
-  },
 };
