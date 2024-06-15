@@ -1,4 +1,4 @@
-# Projet Title
+# Project Title
 
 Simple overview of use/purpose.(May include introductory screenshots)
 
