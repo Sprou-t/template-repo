@@ -6,7 +6,6 @@
 
 const path = require('path'); // Imports the path module from Node.js, which provides functions for working with file and directory paths. rerquire for webpack.config file, import/export for JS file
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const { watchFile } = require('fs');
 
 module.exports = {
   mode: 'development',
